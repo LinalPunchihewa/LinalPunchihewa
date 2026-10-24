@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 - 🎓 Software Engineering undergraduate
-- 🔭 Currently building **[Greenpulse](https://github.com/LinalPunchihewa/Greenpulse)**
+- 🔭 Currently working on my **Final Year Project**
 - ☁️ Exploring cloud (AWS, Azure) and DevOps with Docker
 - 🤖 Automating workflows with **n8n** and **LLMs**
 - 📸 Photographer when I'm away from the keyboard
@@ -33,15 +33,24 @@
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/LinalPunchihewa/Greenpulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinalPunchihewa&repo=Greenpulse&theme=tokyonight&hide_border=true" />
-</a>
+### 🎓 Final Year Project
+> 🚧 Work in progress. More details coming soon.
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinalPunchihewa&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinalPunchihewa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LinalPunchihewa&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌌 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinalPunchihewa&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 📫 Connect With Me
